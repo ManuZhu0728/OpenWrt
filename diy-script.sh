@@ -74,6 +74,9 @@ git clone --depth=1 https://github.com/pymumu/openwrt-smartdns package/smartdns
 # MosDNS
 git clone --depth=1 https://github.com/sbwml/luci-app-mosdns package/luci-app-mosdns
 
+# lucky
+git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
+
 # Alist
 git clone --depth=1 https://github.com/sbwml/luci-app-alist package/luci-app-alist
 
