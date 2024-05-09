@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 切换luci版本
-sed -i '2s/^/#/; 3s/^#//' feeds.conf.default
+# sed -i '2s/^/#/; 3s/^#//' feeds.conf.default
 
 # 修改默认IP
 # sed -i 's/192.168.1.1/10.0.0.1/g' package/base-files/files/bin/config_generate
